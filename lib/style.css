@@ -1,0 +1,30 @@
+#ana{
+    width: 490px;
+    height: 510px;
+    background-color: rgb(141, 189, 231);
+    margin:auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+div.kutu{
+    width:153px ;
+    height: 153px;
+    background-color: rgb(51, 27, 27);
+    margin: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+div.sayi{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    border-color: black;
+    border: 1px;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+    box-sizing: border-box;
+    
+
+}
